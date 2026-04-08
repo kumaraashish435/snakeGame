@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>Snake Game</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      width: 100%; height: 100%;
+      background: #1a1a2e;
+      display: flex; justify-content: center; align-items: center;
+      overflow: hidden;
+    }
+    canvas {
+      border: 2px solid #e94560;
+      display: block;
+      max-width: 100vw;
+      max-height: 100vh;
+    }
+    
+    
+    .emscripten { display: none; }
+  </style>
+</head>
+<body>
+  <canvas id="canvas" oncontextmenu="event.preventDefault()" tabindex="-1"></canvas>
+  {{{ SCRIPT }}}
+</body>
+</html>
