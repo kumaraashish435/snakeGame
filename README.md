@@ -132,7 +132,10 @@ python3 -m http.server 8080
 
 ## demo Video
 
-<video controls src="Screen Recording 2026-04-07 at 20.56.31.mov" title="Title"></video>
+
+https://github.com/user-attachments/assets/e209825b-b1f8-4cef-bcce-46841659776c
+
+
 
 ## License
 
