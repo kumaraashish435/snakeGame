@@ -130,6 +130,10 @@ python3 -m http.server 8080
 | Swipe         | Move snake (touch devices) |
 | Tap           | Restart / unpause (touch)  |
 
+## demo Video
+
+<video controls src="Screen Recording 2026-04-07 at 20.56.31.mov" title="Title"></video>
+
 ## License
 
 Public domain / MIT — use freely.
